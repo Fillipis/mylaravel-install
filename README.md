@@ -38,7 +38,8 @@ Entrar no seu diretório local, exemplo:
 <pre>C:\xampp\htdocs\mylaravelapp\</pre>
 
 ## comandos via composer - passo 02:
-Executar via cmd/terminal o comando:
+Agora, vamos importar para nosso projeto em [localhost] todas as dependencias do framework Laravel.
+Execute via cmd/terminal o comando abaixo:
 <pre>composer create-project laravel/laravel mylaravelapp</pre>
 
 ## comandos - passo 03:

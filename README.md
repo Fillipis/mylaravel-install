@@ -50,6 +50,7 @@ Após concluir a instalação do laravel, a estrutura [raíz] do projeto se modi
 Com o XAMPP já inicializado, entro no meu diretório [../mylaravelapp/app] via terminal inicializo o servidor [artisan]:
 <pre>php artisan serve</pre>
 
-## comandos via composer laravel - passo 05:
+## raíz do framework Laravel
 Pronto, a página inicial do framework laravel deve ser exibida em [localhost], no meu exemplo:
-<pre>http://127.0.0.1:8000/mylaravelapp/app/public</pre>
+
+<pre>http://127.0.0.1:8000</pre>

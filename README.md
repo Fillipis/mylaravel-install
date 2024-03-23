@@ -1,5 +1,5 @@
-# mylaravel-install
-Projeto público com passo a passo de instalação do framework [Laravel].
+# mylaravel-install Windows 11 (64bits)
+Projeto público com passo a passo de instalação do framework [Laravel] no ambiente Windows 11.
 
 ## instalando o LARAVEL
 Criando um passo a passo de instalação do Laravel via localhost.
@@ -10,6 +10,8 @@ Composer, PHP (server imbutido ou XAMPP) e um SGBD (MySql) instalado.
 ## acessar a página da documentação do framework
 
 <pre>https://laravel.com/docs/10.x/installation</pre>
+
+## passo 00: executar os comandos via cmd (como administrador)
 
 ## passo 01: comandos via composer laravel:
 Entrar no seu diretório local, exemplo:
